@@ -1,0 +1,26 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "A small repository for learning GitHub features.",
+    "url": "https://github.com/octocat/Hello-World",
+    "language": "JavaScript",
+    "stars": 2500,
+    "starred_at": "2026-11-20"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source documentation for GitHub.",
+    "url": "https://github.com/github/docs",
+    "language": "JavaScript",
+    "stars": 18500,
+    "starred_at": "2026-11-18"
+  },
+  {
+    "name": "microsoft/vscode",
+    "description": "Visual Studio Code, a code editor for building software.",
+    "url": "https://github.com/microsoft/vscode",
+    "language": "TypeScript",
+    "stars": 178000,
+    "starred_at": "2026-11-15"
+  }
+]
